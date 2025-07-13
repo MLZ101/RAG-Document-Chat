@@ -1,0 +1,29 @@
+# Node.js dependencies
+/frontend/node_modules
+/node_modules
+
+# Frontend debug logs
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Python virtual environment
+/backend/.venv
+/backend/venv
+
+# Python bytecode
+/backend/__pycache__/
+/backend/**/__pycache__/
+*/__pycache__
+
+# Backend logs
+/backend/app.log
+*.log
+
+# Backend temp folders
+/backend/.env
+/backend/uploaded_documents
+
+# ChromaDB persistent data
+/backend/chroma_data/
+*.sqlite3 
