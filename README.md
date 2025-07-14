@@ -92,6 +92,8 @@ Your web browser should automatically open to your localhost, displaying the fro
 1.	**Upload Documents:** Use the "Upload Documents" section on the left to add your PDF or TXT files. The backend will process them in the background.
 2.	**Chat:** Once documents are processed (you can refresh the document list), you can select a specific document to chat with by clicking on it in the Documents tab. Type your question in the chat input and press "Send." The assistant will retrieve relevant context and generate an answer.
 
+> **NOTE:** You can use the samples given in the `testing_samples` folder located in the root folder, in order to test the tool on and chat with. 
+
 ![Demo](./Demo.gif)
 
 <br><br>
